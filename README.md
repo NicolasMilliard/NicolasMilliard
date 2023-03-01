@@ -3,7 +3,7 @@ Hello 👋<br>
 I'm Nicolas Milliard, a Full-Stack Developer.<br>
 **I'm currently searching a job as a Blockchain Developer.**<br>
 <br>
-✨ 5+ years experienced Full-Stack Developer<br>
+✨ 7 years experienced Full-Stack Developer<br>
 🏫 Graduated from Alyra, the French Blockchain School<br>
 <br>
 📚 Solidity Smart Contracts, Truffle, Hardhat, Web3.js, Ethers.js.
