@@ -1,12 +1,12 @@
 # 💫 About Me:
 Hello 👋<br>
 I'm Nicolas Milliard.<br>
-**Full-Stack & Web 3 Developer**<br>
+**Front-End & Web 3 Developer**<br>
 <br>
-✨ 7 years experienced Full-Stack Developer<br>
+✨ 7 years experienced Front-End Developer<br>
 ✨ 1 year experienced Blockchain Developer<br><br>
 
-📚 JavaScript (ES6+), TypeScript, React JS, React Native, Next.js.<br>
+📚 JavaScript (ES6+), TypeScript, React JS & React Native.<br>
 📚 Solidity, Hardhart, Truffle, Web3.js, Ethers.js.
 
 ## 🌐 Socials:
