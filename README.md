@@ -12,4 +12,4 @@
 
 ###
 
-<p>✨ 7 years experienced Front-End Developer<br>✨ 1 year experienced Blockchain Developer
+<p>✨ 8 years experienced Front-End Developer<br>✨ 1 year experienced Blockchain Developer
