@@ -4,7 +4,7 @@
 
 ###
 
-<p>I'm a Front-End Developer by day and a Blockchain Developer by night.</p>
+<p>I'm a Front-End Engineer by day and a Blockchain Engineer by night.</p>
 
 ###
 
@@ -12,4 +12,4 @@
 
 ###
 
-<p>✨ 8 years experienced Front-End Developer<br>✨ 1 year experienced Blockchain Developer
+<p>✨ 8 years experienced Front-End Engineer<br>✨ 1 year experienced Blockchain Engineer
