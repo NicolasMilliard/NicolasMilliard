@@ -4,12 +4,9 @@
 
 ###
 
-<p>I'm a Front-End Engineer by day and a Blockchain Engineer by night.</p>
+<p>Front-End Developer with over 9 years of experience, I specialize in building complex, high-quality, and maintainable web applications.</p>
+<p>Comfortable leading technical teams, I combine hands-on development with a strong ability to mentor, structure workflows, and drive team growth.</p>
+<p>Curious, proactive, and product-oriented, I strive to deliver reliable, scalable, and user-focused applications.</p>
 
-###
 
-<h2>About me</h2>
 
-###
-
-<p>✨ 8 years experienced Front-End Engineer<br>✨ 1 year experienced Blockchain Engineer
