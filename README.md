@@ -1,9 +1,4 @@
-###
+<h2>Software Engineer</h2>
 
-<h1>Hello 👋</h1>
-
-###
-
-<p>Lead Frontend Engineer. 9 years of experience.</p>
-
-<p>I work with React, React Native, Next.js, Foundry, TypeScript, and Solidity.</p>
+<p>I build scalable products, from interface to backend. I focus on frontend excellence, system design, and developer workflows.</p>
+<p>I care about performance, clarity, and long-term maintainability.</p>
