@@ -1,4 +1,5 @@
-<h2>Software Engineer</h2>
+<h2>Senior Frontend Engineer</h2>
 
-<p>I build scalable products, from interface to backend. I focus on frontend excellence, system design, and developer workflows.</p>
-<p>I care about performance, clarity, and long-term maintainability.</p>
+<p>Senior Frontend Engineer with 10 years of experience building scalable product interfaces and modern web applications.</p>
+<p>Focused on frontend architecture, design systems, performance, and reliable user experiences.</p>
+<p>I enjoy building products that are fast, maintainable, accessible, and easy for teams to evolve.</p>
